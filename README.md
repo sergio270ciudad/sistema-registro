@@ -2,3 +2,5 @@
 
 - estado de proyecto: en construccion
 -xd
+-para ejecutar el sistemas debes poner
+'''npm install react''''
